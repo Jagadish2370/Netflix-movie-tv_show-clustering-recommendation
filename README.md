@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies and TV Shows Clustering
+# 🎬 Netflix movie tv_show clustering recommendation
 ![DALL·E 2025-03-17 19 38 40 - A simple and clean template for a Netflix Movies and TV Shows Clustering machine learning project  The design should feature a minimalistic Netflix-th](https://github.com/user-attachments/assets/7c8c4397-1720-4ef2-81e4-3c2dcf96d09e)
 
 ## 📌 Project Overview
